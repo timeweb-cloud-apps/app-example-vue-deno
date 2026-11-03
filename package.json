@@ -1,0 +1,13 @@
+{
+  "type": "module",
+  "scripts": {
+    "dev": "vite --host 0.0.0.0",
+    "build": "vite build"
+  },
+  "dependencies": {
+    "vite": "^8.0.0",
+    "vue": "^3.0.0",
+    "@vitejs/plugin-vue": "^6.0.0"
+  },
+  "name": "app-example-vue-deno"
+}
